@@ -1,6 +1,5 @@
 package com.chamodshehanka.matricesCalculator.controller;
 
-import java.util.Scanner;
 
 /**
  * @author chamodshehanka on 5/28/2018
